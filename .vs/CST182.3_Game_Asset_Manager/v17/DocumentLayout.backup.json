@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jashe\\source\\repos\\CST182.3_Game_Asset_Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E44A2140-B9F4-47CF-B599-A262193A4932}|CST182.3_Game_Asset_Manager\\CST182.3_Game_Asset_Manager.pyproj|C:\\Users\\Jashe\\source\\repos\\CST182.3_Game_Asset_Manager\\CST182.3_Game_Asset_Manager\\CST182.3_Game_Asset_Manager.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E44A2140-B9F4-47CF-B599-A262193A4932}|CST182.3_Game_Asset_Manager\\CST182.3_Game_Asset_Manager.pyproj|solutionrelative:CST182.3_Game_Asset_Manager\\CST182.3_Game_Asset_Manager.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CST182.3_Game_Asset_Manager.py",
+              "DocumentMoniker": "C:\\Users\\Jashe\\source\\repos\\CST182.3_Game_Asset_Manager\\CST182.3_Game_Asset_Manager\\CST182.3_Game_Asset_Manager.py",
+              "RelativeDocumentMoniker": "CST182.3_Game_Asset_Manager\\CST182.3_Game_Asset_Manager.py",
+              "ToolTip": "C:\\Users\\Jashe\\source\\repos\\CST182.3_Game_Asset_Manager\\CST182.3_Game_Asset_Manager\\CST182.3_Game_Asset_Manager.py",
+              "RelativeToolTip": "CST182.3_Game_Asset_Manager\\CST182.3_Game_Asset_Manager.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-06T09:00:52.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
